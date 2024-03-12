@@ -11,7 +11,7 @@ mkdir -p "$(bat --config-dir)/themes"
 2. Copy the theme files from this repository:
 
 ```bash
-wget -P "$(bat --config-dir)/themes" https://github.com/catppuccin/bat/raw/main/Night%20Owl%20Light.tmTheme
+wget -P "$(bat --config-dir)/themes" https://github.com/ubmit/night-owl-light-bat/raw/main/Night%20Owl%20Light.tmTheme
 ```
 
 3. Rebuild bat's cache:
